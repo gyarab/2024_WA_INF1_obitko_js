@@ -1,0 +1,26 @@
+{
+  "coding": [
+    "css.png",
+    "html.png",
+    "javascript.png",
+    "react.png",
+    "sass.png",
+    "vue.png"
+  ],
+  "resources": [
+    "designership.png",
+    "dribble.png",
+    "google-fonts.png",
+    "pixabay.png",
+    "realtime-colors.png",
+    "youtube.png"
+  ],
+  "tools": [
+    "figma.png",
+    "framer.png",
+    "illustrator.png",
+    "miro.png",
+    "photoshop.png",
+    "webflow.png"
+  ]
+}

@@ -1,5 +1,7 @@
 # The Ultimate UI/UX Memory Game
 
+![screen shot](screenshot.png)
+
 ## Domácí úkol na webové aplikace
 
 Na implementaci jsem použil čistý JavaScript, CSS a HTML. JS je rozdělený do komponentů, takže projekt nelze spustit přímo ze souboru, je potřeba http.  
